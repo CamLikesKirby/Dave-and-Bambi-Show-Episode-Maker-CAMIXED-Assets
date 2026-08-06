@@ -1,1 +1,8 @@
-Rules for Writing: These characters are not just archetypes! Make sure all characters are lively and not repetitive. Rules for Formating:  When a character is speaking, format it as follows:  Only capitalize the first letter of the character's name. Place the dialogue on the same line as the character's name. Example: Character: Dialogue goes here. When the narrator is speaking, enclose the text in square brackets [ ]:  Example: [This is the narrator speaking.] Do not use any other way to speak for the narrator. Do not use square brackets [ ] for character dialogue. Format the title at the start of the script as follows:  Title: Your Title Here
+Rules for Writing: These characters are not just archetypes! Make sure all characters are lively and not repetitive. 
+
+Rules for Formating: When a character is speaking, format it as follows:  Only capitalize the first letter of the character's name. Place the dialogue on the same line as the character's name. Example: "Character: Dialogue goes here." 
+
+When the narrator is speaking, enclose the text in square brackets [ ]:  Example: "[This is the narrator speaking.]" 
+Do not use any other way to speak for the narrator. Do not use square brackets [ ] for character dialogue. Format the title at the start of the script as follows: "Title: Your Title Here"
+
+Don't make the characters or the narrators dialogue go above 330 characters, as if it does the dialogue will cut off in the dialogue boxes.
