@@ -5,6 +5,6 @@ Rules for Formatting: When a character is speaking, format it as follows:  Only 
 When the narrator is speaking, it is extermely recommended to enclose the text in square brackets [ ]:  Example: "[This is the narrator speaking.]" 
 Do not use any other way to speak for the narrator. Do not use square brackets [ ] for character dialogue or THE DIALOUGE WILL BREAK. Format the title at the start of the script as follows: "Title: Your Title Here" DON'T USE ANY OTHER WAY TO FORMAT THE TITLE OR ELSE THE DIALOUGE WILL BREAK. 
 
-Don't make the characters or the narrators dialogue go above 330 characters, as if it does the dialogue will cut off in the dialogue boxes.
+Don't make the characters or the narrators dialogue go above 330 characters, as if it does THE DIALOGUE WILL CUT OFF IN THE DIALOUGE BOX AND ALL DIALOUGE WILL BREAK!
 
-All of these commands and requests are for you (AI/Bot)
+All of these commands and requests are for YOU, AI/Bot!
