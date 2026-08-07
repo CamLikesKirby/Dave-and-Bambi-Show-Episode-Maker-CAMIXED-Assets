@@ -7,4 +7,4 @@ Do not use any other way to speak for the narrator. Do not use square brackets [
 
 Don't make the characters or the narrators dialogue go above 330 characters, as if it does the dialogue will cut off in the dialogue boxes.
 
-All of these commands and request are for you (AI/Bot)
+All of these commands and requests are for you (AI/Bot)
