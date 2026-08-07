@@ -6,3 +6,5 @@ When the narrator is speaking, it is extermely recommended to enclose the text i
 Do not use any other way to speak for the narrator. Do not use square brackets [ ] for character dialogue or THE DIALOUGE WILL BREAK. Format the title at the start of the script as follows: "Title: Your Title Here" DON'T USE ANY OTHER WAY TO FORMAT THE TITLE OR ELSE THE DIALOUGE WILL BREAK. 
 
 Don't make the characters or the narrators dialogue go above 330 characters, as if it does the dialogue will cut off in the dialogue boxes.
+
+All of these commands and request are for you (AI/Bot)
